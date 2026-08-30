@@ -1,0 +1,581 @@
+period,s_no,asi_circle,monument,domestic_visitors,foreign_visitors,total_visitors
+2021-22,1,Agra,Taj Mahal,3294611.0,38922.0,3333533.0
+2021-22,2,Agra,Agra Fort,1027462.0,13598.0,1041060.0
+2021-22,3,Agra,Fatehpur Sikri,157253.0,2122.0,159375.0
+2021-22,4,Agra,Akbar Tomb Sikandra,187182.0,1028.0,188210.0
+2021-22,5,Agra,"Mariam Tomb,",17537.0,98.0,17635.0
+2021-22,6,Agra,Itimad-ud,90711.0,1927.0,92638.0
+2021-22,7,Agra,Ram Bagh,30965.0,95.0,31060.0
+2021-22,8,Agra,Mehtab Bagh,86213.0,1653.0,87866.0
+2021-22,9,Agra,Mausoleum 709754 4142 578712 8218 -18.46 98.41 Total,5209587.0,60086.0,5269673.0
+2021-22,10,Lucknow,Site of Sahet,51796.0,306.0,52102.0
+2021-22,11,Lucknow,Residency,111829.0,130.0,111959.0
+2021-22,12,Lucknow,Piprahwa & 46824 18061 38375 19317 -18.04 6.95 Ganwaria Total,186778.0,537.0,187315.0
+2021-22,13,Jhansi,Gupta & Varah,1636.0,0.0,1636.0
+2021-22,14,Jhansi,Kalinjar Fort,88603.0,7.0,88610.0
+2021-22,15,Jhansi,Rani Lakshmi Bai,10836.0,0.0,10836.0
+2021-22,16,Jhansi,Rani Jhansi Fort 470724 611 521136 625 10.71 2.29 Total,411308.0,65.0,411373.0
+2021-22,17,Sarnath,Lord Cornwallis,7086.0,14.0,7100.0
+2021-22,18,Sarnath,Old Fort (Shahi,123344.0,201.0,123545.0
+2021-22,19,Sarnath,Observatory of,36267.0,28.0,36295.0
+2021-22,20,Sarnath,Excavated Remains,328684.0,1617.0,330301.0
+2021-22,21,Sarnath,Tomb of Lal Khan,2515.0,4.0,2519.0
+2021-22,22,Sarnath,Ancient Buddhist 47495 5816 36423 5351 -23.31 -8.00 Site know as Chaukhan di Stupa Total,519893.0,1955.0,521848.0
+2021-22,23,Thrissur,"Bekal Fort,",200127.0,133.0,200260.0
+2021-22,24,Thrissur,Mattancherry Palace Museum Kochi,65066.0,1118.0,66184.0
+2021-22,25,Thrissur,Fort Palakkad,96142.0,10.0,96152.0
+2021-22,26,Thrissur,"Fort St. Angelo, 240382 818 242895 1074 1.05 31.30 Kannur Total",513878.0,1320.0,515198.0
+2021-22,27,Chennai,Group of,1142150.0,7532.0,1149682.0
+2021-22,28,Chennai,Gingee Fort,188496.0,555.0,189051.0
+2021-22,29,Chennai,Tiger headed Rock,1411959.0,8345.0,1420304.0
+2021-22,30,Chennai,"Fort, St. George 24254 5474 24664 7313 1.69 33.60 Total",27368.0,4.0,27372.0
+2021-22,31,Thiruchirapalli,"Fort on Rock,",829.0,0.0,829.0
+2021-22,32,Thiruchirapalli,Moovarkoil,44408.0,49.0,44457.0
+2021-22,33,Thiruchirapalli,Rock Cut Jain,530.0,0.0,530.0
+2021-22,34,Thiruchirapalli,Tirumalai Nayak's,22800.0,33.0,22833.0
+2021-22,35,Thiruchirapalli,Natural Caven with,62622.0,27.0,62649.0
+2021-22,36,Thiruchirapalli,Fort Museum,211757.0,113.0,211870.0
+2021-22,37,Thiruchirapalli,Fort Vattakottai 114090 242 99669 366 -12.64 51.24 Total,27260.0,1.0,27261.0
+2021-22,38,Bhopal,Buddhist Caves,31284.0,76.0,31360.0
+2021-22,39,Bhopal,The Palace in the,113132.0,107.0,113239.0
+2021-22,40,Bhopal,Hoshang Shah’s,344821.0,92.0,344913.0
+2021-22,41,Bhopal,Group of,336231.0,55.0,336286.0
+2021-22,42,Bhopal,Roopmati’s,118208.0,171.0,118379.0
+2021-22,43,Bhopal,Buddhist,203163.0,209.0,203372.0
+2021-22,44,Bhopal,Gwalior Fort,24083.0,65.0,24148.0
+2021-22,45,Bhopal,Buddhist Cave,11027.0,6.0,11033.0
+2021-22,46,Bhopal,Badal Mahal,35530.0,42.0,35572.0
+2021-22,47,Bhopal,Caves 1 to,1271045.0,853.0,1271898.0
+2021-22,48,Bhopal,Bir Singh Palace 43841 763 42443 943 -3.19 23.59 Datia Total,18655.0,41.0,18696.0
+2021-22,49,Jabalpur,Ancient site and,243475.0,795.0,244270.0
+2021-22,50,Jabalpur,Western Group of,293111.0,969.0,294080.0
+2021-22,51,Jabalpur,"Group of Temple, 50251 145 49323 152 -1.85 4.83 Paramesh var Shiv and Karan Temple, Amarkantak Total",98363.0,69.0,98432.0
+2021-22,52,Dharwad,"Durga Temple,",234156.0,199.0,234355.0
+2021-22,53,Dharwad,Jaina & Vaishnava,157634.0,79.0,157713.0
+2021-22,54,Dharwad,Group of,447627.0,263.0,447890.0
+2021-22,55,Dharwad,"Gol-Gumbaz,",102094.0,20.0,102114.0
+2021-22,56,Dharwad,"Ibrahim Rauza,",1047941.0,903.0,1048844.0
+2021-22,57,Dharwad,"Temples & 19913 118 20621 179 3.56 51.69 Sculpture shed, Lakkumdi Total",425950.0,1244.0,427194.0
+2021-22,58,Hampi,Group of,443213.0,1259.0,444472.0
+2021-22,59,Hampi,Bellary Fort 38270 40 37401 53 -2.27 32.50 Total,142935.0,891.0,143826.0
+2021-22,60,Bangalore,Daryia Daulat,75793.0,662.0,76455.0
+2021-22,61,Bangalore,Keshava Temple,100193.0,976.0,101169.0
+2021-22,62,Bangalore,Palace of Tipu,529404.0,3348.0,532752.0
+2021-22,63,Bangalore,Fortress and 446569 2568 381095 3078 -14.66 19.86 Temple Chitradurga Fort Total,2287176.0,162.0,2287338.0
+2021-22,64,Raiganj,Cooch Bihar,585303.0,329.0,585632.0
+2021-22,65,Raiganj,Hazarduari Palace 983025 1454 906992 1907 -7.73 31.16 Total,111814.0,222.0,112036.0
+2021-22,66,Kolkata,Bishnupur Temples,119626.0,258.0,119884.0
+2021-22,67,Kolkata,Matcalfe-Hall 22639 210 32280 225 42.59 7.14 Total,31685.0,27.0,31712.0
+2021-22,68,Rajkot,"Asokan Rock Edict,",0.0,0.0,0.0
+2021-22,69,Rajkot,"Buddhisht Caves,",34400.0,33.0,34433.0
+2021-22,70,Rajkot,"Baba Pyara Caves, 2895 11 3323 24 14.78 118.18 Junagadh & Khaprakodia Caves Junagadh Total",61303.0,43.0,61346.0
+2021-22,71,Vadodara,Champaner,224982.0,603.0,225585.0
+2021-22,72,Vadodara,"Sun Temple,",268628.0,228.0,268856.0
+2021-22,73,Vadodara,"Rani Ki- Vav, Patan",822620.0,1396.0,824016.0
+2021-22,74,Vadodara,"Rudabai Step 378847 8090 277021 7890 -26.88 -2.47 Well, Adalaj Total",672891.0,314.0,673205.0
+2021-22,75,Bhubaneswar,"Sun Temple,",98754.0,119.0,98873.0
+2021-22,76,Bhubaneswar,Ancient Remains,12385.0,52.0,12437.0
+2021-22,77,Bhubaneswar,Rajarani Temple,16316.0,32.0,16348.0
+2021-22,78,Bhubaneswar,The Hill Containing,824707.0,777.0,825484.0
+2021-22,79,Bhubaneswar,"Ruins of Buddhist 41188 399 52329 454 27.05 13.78 Temples and Images, Lalitgiri Total",138503.0,662.0,139165.0
+2021-22,80,Aurangabad,Ajanta Caves,411915.0,911.0,412826.0
+2021-22,81,Aurangabad,Ellora Caves,397374.0,536.0,397910.0
+2021-22,82,Aurangabad,Tomb of Rabia,204834.0,264.0,205098.0
+2021-22,83,Aurangabad,Daulatabad Fort,72661.0,221.0,72882.0
+2021-22,84,Aurangabad,"Pandulena Caves,",1293929.0,2673.0,1296602.0
+2021-22,85,Aurangabad,Aurangabad Caves 132518 1495 126327 1609 -4.67 7.63 Total,219837.0,1321.0,221158.0
+2021-22,86,Mumbai,Elephanta Caves,87182.0,576.0,87758.0
+2021-22,87,Mumbai,"Buddhist Caves,",516448.0,478.0,516926.0
+2021-22,88,Mumbai,Shaniwarw ada,41150.0,197.0,41347.0
+2021-22,89,Mumbai,Aga Khan Palace,173143.0,20.0,173163.0
+2021-22,90,Mumbai,"Cave, Temple and",156834.0,150.0,156984.0
+2021-22,91,Mumbai,"Caves, Temples and",35790.0,81.0,35871.0
+2021-22,92,Mumbai,"Cave, Temple &",172058.0,12.0,172070.0
+2021-22,93,Mumbai,Raigad Fort,33073.0,19.0,33092.0
+2021-22,94,Mumbai,"Kolaba Fort,",5755.0,5.0,5760.0
+2021-22,95,Mumbai,"Old Fort, Sholapur",187947.0,68.0,188015.0
+2021-22,96,Mumbai,"Janjira Fort, Murd",9373.0,76.0,9449.0
+2021-22,97,Mumbai,Kondiote Caves,1724562.0,3062.0,1727624.0
+2021-22,98,Mumbai,Lohgad Fort 136790 207 138327 323 1.12 56.04 Total,9219.0,5.0,9224.0
+2021-22,99,Nagpur,Gawilgarh Fort,11125.0,13.0,11138.0
+2021-22,100,Nagpur,"Ancient Buddhist 3901 128 3552 92 -8.95 -28.13 Remains, comprising monstery stupa rock sculptures inscriptions etc mansar Total",14651.0,49.0,14700.0
+2021-22,101,Chandigarh,Suraj Kund,67602.0,196.0,67798.0
+2021-22,102,Chandigarh,Sheikj Chillis Tomb 74729 346 81589 217 9.18 -37.28 Total,3448.0,30.0,3478.0
+2021-22,103,Delhi,Khan-I-Khana,299.0,5.0,304.0
+2021-22,104,Delhi,Sultan Garhi Tomb,20925.0,132.0,21057.0
+2021-22,105,Delhi,Tughlaqabad Fort,1323501.0,5579.0,1329080.0
+2021-22,106,Delhi,Red Fort,392378.0,4892.0,397270.0
+2021-22,107,Delhi,Humayuns Tomb,1157664.0,8456.0,1166120.0
+2021-22,108,Delhi,Qutub Minar,45503.0,152.0,45655.0
+2021-22,109,Delhi,Hauzkhas,125545.0,521.0,126066.0
+2021-22,110,Delhi,Jantar Mantar,74898.0,627.0,75525.0
+2021-22,111,Delhi,Safdarjung Tomb,54145.0,106.0,54251.0
+2021-22,112,Delhi,Kotla Firoz Shah,3664640.0,21348.0,3685988.0
+2021-22,113,Delhi,Purana Qila 261483 1727 192216 1600 -26.49 -7.35 Total,34640.0,29.0,34669.0
+2021-22,114,Guwahati,Ahom Raja’s,46408.0,22.0,46430.0
+2021-22,115,Guwahati,Kareghar of Ahom,39211.0,22.0,39233.0
+2021-22,116,Guwahati,Ranghar Pavillion,2606.0,2.0,2608.0
+2021-22,117,Guwahati,Bishnudol Temple,157674.0,127.0,157801.0
+2021-22,118,Guwahati,"Group of Four 47987 86 76896 102 60.24 18.60 Maidams Charaideo, Sibsagar Total",65676.0,1057.0,66733.0
+2021-22,119,Goa,Upper Fort Aguada,440549.0,648.0,441197.0
+2021-22,120,Hyderabad,Charminar,946972.0,1511.0,948483.0
+2021-22,121,Hyderabad,Golkonda Fort,1473467.0,2265.0,1475732.0
+2021-22,122,Hyderabad,Warangal Fort 108267 242 106447 280 -1.68 15.70 Total,147549.0,152.0,147701.0
+2021-22,123,Jaipur,"Ancient Site,",57881.0,817.0,58698.0
+2021-22,124,Jaipur,Baori at Abhaneri,238434.0,996.0,239430.0
+2021-22,125,Jaipur,Deeg Bhawan 39755 245 37987 366 -4.45 49.39 Total,590389.0,288.0,590677.0
+2021-22,126,Jodhpur,Chittaurgarh Fort,324707.0,257.0,324964.0
+2021-22,127,Jodhpur,Kumbhalgarh Fort,1372020.0,568.0,1372588.0
+2021-22,128,Jodhpur,Marble Pavillion 547782 150 370056 152 -32.44 1.33 and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund Total,52402.0,176.0,52578.0
+2021-22,129,Leh,Ancient Palace Leh,81013.0,11.0,81024.0
+2021-22,130,Patna,Remains of,46095.0,28.0,46123.0
+2021-22,131,Patna,Ancient site of,179597.0,281.0,179878.0
+2021-22,132,Patna,"Excavated Site,",33322.0,0.0,33322.0
+2021-22,133,Patna,Ancient Site of,506293.0,337.0,506630.0
+2021-22,134,Patna,Sher Shah’s Tomb 302528 154 311750 231 3.05 50.00 Total,53049.0,1.0,53050.0
+2021-22,135,Raipur,Temple of Laxman,81894.0,351.0,82245.0
+2021-22,136,Shimla,Ruined fort Kangra,122665.0,623.0,123288.0
+2021-22,137,Shimla,"Rock-cut Temples 52434 2603 41624 1341 -20.62 -48.48 and Sculptures, Masrur Total",5595.0,0.0,5595.0
+2021-22,138,Srinagar,Palace complex at,24957.0,6.0,24963.0
+2021-22,139,Srinagar,Avantiswamin,37935.0,14.0,37949.0
+2021-22,140,Srinagar,"Group of Temples, 16807 12 13842 15 -17.64 25.00 Kiramchi, District Udhampur Total",3741.0,17.0,3758.0
+2021-22,141,Amaravati,Amaravati,77133.0,40.0,77173.0
+2021-22,142,Amaravati,Undavalli Caves,2611.0,0.0,2611.0
+2021-22,143,Amaravati,Nagarjuna Konda,80189.0,33.0,80222.0
+2021-22,144,Amaravati,Chandragiri,177808.0,112.0,177920.0
+2021-22,145,Amaravati,"Buddhist Remains, 16626 35 13754 47 -17.27 34.29 on hill top at Guntupalli W.G. District Total",,,
+2022-23,1,Agra,Taj Mahal,5052712.0,396900.0,5449612.0
+2022-23,2,Agra,Agra Fort,1722213.0,139400.0,1861613.0
+2022-23,3,Agra,Fatehpur Sikri,443689.0,62238.0,505927.0
+2022-23,4,Agra,Akbar Tomb Sikandra,267509.0,9175.0,276684.0
+2022-23,5,Agra,"Mariam Tomb,",39335.0,338.0,39673.0
+2022-23,6,Agra,Itimad-ud,152495.0,44390.0,196885.0
+2022-23,7,Agra,Ram Bagh,67489.0,1841.0,69330.0
+2022-23,8,Agra,Mehtab Bagh,111302.0,17079.0,128381.0
+2022-23,9,Agra,Mausoleum 709754 4142 578712 8218 -18.46 98.41 Total,8622758.0,672243.0,9295001.0
+2022-23,10,Lucknow,Site of Sahet,93790.0,43360.0,137150.0
+2022-23,11,Lucknow,Residency,152480.0,1789.0,154269.0
+2022-23,12,Lucknow,Piprahwa & 46824 18061 38375 19317 -18.04 6.95 Ganwaria Total,284087.0,50769.0,334856.0
+2022-23,13,Jhansi,Gupta & Varah,934.0,13.0,947.0
+2022-23,14,Jhansi,Kalinjar Fort,95957.0,162.0,96119.0
+2022-23,15,Jhansi,Rani Lakshmi Bai,15470.0,27.0,15497.0
+2022-23,16,Jhansi,Rani Jhansi Fort 470724 611 521136 625 10.71 2.29 Total,522183.0,494.0,522677.0
+2022-23,17,Sarnath,Lord Cornwallis,9148.0,90.0,9238.0
+2022-23,18,Sarnath,Old Fort (Shahi,167409.0,343.0,167752.0
+2022-23,19,Sarnath,Observatory of,61542.0,511.0,62053.0
+2022-23,20,Sarnath,Excavated Remains,755062.0,54743.0,809805.0
+2022-23,21,Sarnath,Tomb of Lal Khan,4804.0,32.0,4836.0
+2022-23,22,Sarnath,Ancient Buddhist 47495 5816 36423 5351 -23.31 -8.00 Site know as Chaukhan di Stupa Total,1051713.0,62108.0,1113821.0
+2022-23,23,Thrissur,"Bekal Fort,",384008.0,498.0,384506.0
+2022-23,24,Thrissur,,,,
+2022-23,25,Thrissur,Fort Palakkad,258812.0,252.0,259064.0
+2022-23,26,Thrissur,"Fort St. Angelo, 240382 818 242895 1074 1.05 31.30 Kannur Total",1194988.0,33540.0,1228528.0
+2022-23,27,Chennai,Group of,1507208.0,28033.0,1535241.0
+2022-23,28,Chennai,Gingee Fort,179289.0,1896.0,181185.0
+2022-23,29,Chennai,Tiger headed Rock,62765.0,1014.0,63779.0
+2022-23,30,Chennai,"Fort, St. George 24254 5474 24664 7313 1.69 33.60 Total",1749262.0,30943.0,1780205.0
+2022-23,31,Thiruchirapalli,"Fort on Rock,",36071.0,57.0,36128.0
+2022-23,32,Thiruchirapalli,Moovarkoil,1874.0,4.0,1878.0
+2022-23,33,Thiruchirapalli,Rock Cut Jain,56425.0,116.0,56541.0
+2022-23,34,Thiruchirapalli,Tirumalai Nayak's,856.0,0.0,856.0
+2022-23,35,Thiruchirapalli,Natural Caven with,19705.0,51.0,19756.0
+2022-23,36,Thiruchirapalli,Fort Museum,93833.0,713.0,94546.0
+2022-23,37,Thiruchirapalli,Fort Vattakottai 114090 242 99669 366 -12.64 51.24 Total,315602.0,1099.0,316701.0
+2022-23,38,Bhopal,Buddhist Caves,29056.0,6.0,29062.0
+2022-23,39,Bhopal,The Palace in the,36808.0,165.0,36973.0
+2022-23,40,Bhopal,Hoshang Shah’s,93038.0,705.0,93743.0
+2022-23,41,Bhopal,Group of,319046.0,1027.0,320073.0
+2022-23,42,Bhopal,Roopmati’s,282678.0,763.0,283441.0
+2022-23,43,Bhopal,Buddhist,266528.0,3457.0,269985.0
+2022-23,44,Bhopal,Gwalior Fort,274674.0,3973.0,278647.0
+2022-23,45,Bhopal,Buddhist Cave,31137.0,65.0,31202.0
+2022-23,46,Bhopal,Badal Mahal,8637.0,51.0,8688.0
+2022-23,47,Bhopal,Caves 1 to,0.0,20.0,20.0
+2022-23,48,Bhopal,Bir Singh Palace 43841 763 42443 943 -3.19 23.59 Datia Total,1444498.0,11184.0,1455682.0
+2022-23,49,Jabalpur,Ancient site and,17962.0,57.0,18019.0
+2022-23,50,Jabalpur,Western Group of,419259.0,15271.0,434530.0
+2022-23,51,Jabalpur,"Group of Temple, 50251 145 49323 152 -1.85 4.83 Paramesh var Shiv and Karan Temple, Amarkantak Total",481346.0,15422.0,496768.0
+2022-23,52,Dharwad,"Durga Temple,",195325.0,2072.0,197397.0
+2022-23,53,Dharwad,Jaina & Vaishnava,427138.0,3271.0,430409.0
+2022-23,54,Dharwad,Group of,306808.0,2359.0,309167.0
+2022-23,55,Dharwad,"Gol-Gumbaz,",831109.0,755.0,831864.0
+2022-23,56,Dharwad,"Ibrahim Rauza,",187111.0,644.0,187755.0
+2022-23,57,Dharwad,"Temples & 19913 118 20621 179 3.56 51.69 Sculpture shed, Lakkumdi Total",1962662.0,9205.0,1971867.0
+2022-23,58,Hampi,Group of,809741.0,15890.0,825631.0
+2022-23,59,Hampi,Bellary Fort 38270 40 37401 53 -2.27 32.50 Total,824143.0,15903.0,840046.0
+2022-23,60,Bangalore,Daryia Daulat,436759.0,8614.0,445373.0
+2022-23,61,Bangalore,Keshava Temple,143360.0,5681.0,149041.0
+2022-23,62,Bangalore,Palace of Tipu,248490.0,7179.0,255669.0
+2022-23,63,Bangalore,Fortress and 446569 2568 381095 3078 -14.66 19.86 Temple Chitradurga Fort Total,1236323.0,23283.0,1259606.0
+2022-23,64,Raiganj,Cooch Bihar,608776.0,98.0,608874.0
+2022-23,65,Raiganj,Hazarduari Palace 983025 1454 906992 1907 -7.73 31.16 Total,1519112.0,1246.0,1520358.0
+2022-23,66,Kolkata,Bishnupur Temples,185784.0,321.0,186105.0
+2022-23,67,Kolkata,Matcalfe-Hall 22639 210 32280 225 42.59 7.14 Total,203584.0,457.0,204041.0
+2022-23,68,Rajkot,"Asokan Rock Edict,",29110.0,177.0,29287.0
+2022-23,69,Rajkot,"Buddhisht Caves,",0.0,0.0,0.0
+2022-23,70,Rajkot,"Baba Pyara Caves, 2895 11 3323 24 14.78 118.18 Junagadh & Khaprakodia Caves Junagadh Total",31919.0,186.0,32105.0
+2022-23,71,Vadodara,Champaner,65547.0,806.0,66353.0
+2022-23,72,Vadodara,"Sun Temple,",379560.0,24166.0,403726.0
+2022-23,73,Vadodara,"Rani Ki- Vav, Patan",351767.0,2247.0,354014.0
+2022-23,74,Vadodara,"Rudabai Step 378847 8090 277021 7890 -26.88 -2.47 Well, Adalaj Total",1166835.0,32056.0,1198891.0
+2022-23,75,Bhubaneswar,"Sun Temple,",2405307.0,3608.0,2408915.0
+2022-23,76,Bhubaneswar,Ancient Remains,469058.0,1724.0,470782.0
+2022-23,77,Bhubaneswar,Rajarani Temple,36420.0,644.0,37064.0
+2022-23,78,Bhubaneswar,The Hill Containing,32742.0,293.0,33035.0
+2022-23,79,Bhubaneswar,"Ruins of Buddhist 41188 399 52329 454 27.05 13.78 Temples and Images, Lalitgiri Total",2979574.0,6538.0,2986112.0
+2022-23,80,Aurangabad,Ajanta Caves,401086.0,10437.0,411523.0
+2022-23,81,Aurangabad,Ellora Caves,1437560.0,12464.0,1450024.0
+2022-23,82,Aurangabad,Tomb of Rabia,1183263.0,5606.0,1188869.0
+2022-23,83,Aurangabad,Daulatabad Fort,516144.0,2565.0,518709.0
+2022-23,84,Aurangabad,"Pandulena Caves,",170146.0,795.0,170941.0
+2022-23,85,Aurangabad,Aurangabad Caves 132518 1495 126327 1609 -4.67 7.63 Total,3823699.0,32719.0,3856418.0
+2022-23,86,Mumbai,Elephanta Caves,464428.0,13368.0,477796.0
+2022-23,87,Mumbai,"Buddhist Caves,",327250.0,6063.0,333313.0
+2022-23,88,Mumbai,Shaniwarw ada,1079741.0,4899.0,1084640.0
+2022-23,89,Mumbai,Aga Khan Palace,187407.0,3121.0,190528.0
+2022-23,90,Mumbai,"Cave, Temple and",404079.0,391.0,404470.0
+2022-23,91,Mumbai,"Caves, Temples and",301392.0,2170.0,303562.0
+2022-23,92,Mumbai,"Cave, Temple &",89302.0,517.0,89819.0
+2022-23,93,Mumbai,Raigad Fort,297029.0,97.0,297126.0
+2022-23,94,Mumbai,"Kolaba Fort,",43176.0,128.0,43304.0
+2022-23,95,Mumbai,"Old Fort, Sholapur",35485.0,32.0,35517.0
+2022-23,96,Mumbai,"Janjira Fort, Murd",276453.0,199.0,276652.0
+2022-23,97,Mumbai,Kondiote Caves,43419.0,310.0,43729.0
+2022-23,98,Mumbai,Lohgad Fort 136790 207 138327 323 1.12 56.04 Total,3825006.0,31829.0,3856835.0
+2022-23,99,Nagpur,Gawilgarh Fort,22777.0,16.0,22793.0
+2022-23,100,Nagpur,"Ancient Buddhist 3901 128 3552 92 -8.95 -28.13 Remains, comprising monstery stupa rock sculptures inscriptions etc mansar Total",26462.0,49.0,26511.0
+2022-23,101,Chandigarh,Suraj Kund,12846.0,53.0,12899.0
+2022-23,102,Chandigarh,Sheikj Chillis Tomb 74729 346 81589 217 9.18 -37.28 Total,83178.0,339.0,83517.0
+2022-23,103,Delhi,Khan-I-Khana,4556.0,40.0,4596.0
+2022-23,104,Delhi,Sultan Garhi Tomb,2110.0,4.0,2114.0
+2022-23,105,Delhi,Tughlaqabad Fort,127556.0,619.0,128175.0
+2022-23,106,Delhi,Red Fort,2214658.0,49060.0,2263718.0
+2022-23,107,Delhi,Humayuns Tomb,1162360.0,100136.0,1262496.0
+2022-23,108,Delhi,Qutub Minar,1767548.0,115247.0,1882795.0
+2022-23,109,Delhi,Hauzkhas,62959.0,1027.0,63986.0
+2022-23,110,Delhi,Jantar Mantar,268778.0,4673.0,273451.0
+2022-23,111,Delhi,Safdarjung Tomb,142379.0,5967.0,148346.0
+2022-23,112,Delhi,Kotla Firoz Shah,119053.0,648.0,119701.0
+2022-23,113,Delhi,Purana Qila 261483 1727 192216 1600 -26.49 -7.35 Total,6470665.0,279866.0,6750531.0
+2022-23,114,Guwahati,Ahom Raja’s,133792.0,151.0,133943.0
+2022-23,115,Guwahati,Kareghar of Ahom,242553.0,554.0,243107.0
+2022-23,116,Guwahati,Ranghar Pavillion,156804.0,519.0,157323.0
+2022-23,117,Guwahati,Bishnudol Temple,7453.0,32.0,7485.0
+2022-23,118,Guwahati,"Group of Four 47987 86 76896 102 60.24 18.60 Maidams Charaideo, Sibsagar Total",634390.0,1282.0,635672.0
+2022-23,119,Goa,Upper Fort Aguada,1014969.0,8320.0,1023289.0
+2022-23,120,Hyderabad,Charminar,928808.0,5986.0,934794.0
+2022-23,121,Hyderabad,Golkonda Fort,1526718.0,11509.0,1538227.0
+2022-23,122,Hyderabad,Warangal Fort 108267 242 106447 280 -1.68 15.70 Total,2592761.0,17734.0,2610495.0
+2022-23,123,Jaipur,"Ancient Site,",184391.0,1450.0,185841.0
+2022-23,124,Jaipur,Baori at Abhaneri,81401.0,39248.0,120649.0
+2022-23,125,Jaipur,Deeg Bhawan 39755 245 37987 366 -4.45 49.39 Total,298416.0,41081.0,339497.0
+2022-23,126,Jodhpur,Chittaurgarh Fort,802807.0,7155.0,809962.0
+2022-23,127,Jodhpur,Kumbhalgarh Fort,389625.0,4759.0,394384.0
+2022-23,128,Jodhpur,Marble Pavillion 547782 150 370056 152 -32.44 1.33 and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund Total,1902013.0,12090.0,1914103.0
+2022-23,129,Leh,Ancient Palace Leh,60052.0,2610.0,62662.0
+2022-23,130,Patna,Remains of,110985.0,178.0,111163.0
+2022-23,131,Patna,Ancient site of,108428.0,9673.0,118101.0
+2022-23,132,Patna,"Excavated Site,",390047.0,37456.0,427503.0
+2022-23,133,Patna,Ancient Site of,75411.0,115.0,75526.0
+2022-23,134,Patna,Sher Shah’s Tomb 302528 154 311750 231 3.05 50.00 Total,946419.0,47481.0,993900.0
+2022-23,135,Raipur,Temple of Laxman,62971.0,19.0,62990.0
+2022-23,136,Shimla,Ruined fort Kangra,124883.0,1233.0,126116.0
+2022-23,137,Shimla,"Rock-cut Temples 52434 2603 41624 1341 -20.62 -48.48 and Sculptures, Masrur Total",176238.0,2273.0,178511.0
+2022-23,138,Srinagar,Palace complex at,5584.0,0.0,5584.0
+2022-23,139,Srinagar,Avantiswamin,44336.0,99.0,44435.0
+2022-23,140,Srinagar,"Group of Temples, 16807 12 13842 15 -17.64 25.00 Kiramchi, District Udhampur Total",58145.0,108.0,58253.0
+2022-23,141,Amaravati,Amaravati,5584.0,0.0,5584.0
+2022-23,142,Amaravati,Undavalli Caves,127594.0,362.0,127956.0
+2022-23,143,Amaravati,Nagarjuna Konda,64591.0,379.0,64970.0
+2022-23,144,Amaravati,Chandragiri,115676.0,80.0,115756.0
+2022-23,145,Amaravati,"Buddhist Remains, 16626 35 13754 47 -17.27 34.29 on hill top at Guntupalli W.G. District Total",335048.0,887.0,335935.0
+2023-24,1,Agra,Taj Mahal,5052712.0,396900.0,5449612.0
+2023-24,2,Agra,Agra Fort,1722213.0,139400.0,1861613.0
+2023-24,3,Agra,Fatehpur Sikri,443689.0,62238.0,505927.0
+2023-24,4,Agra,Akbar Tomb Sikandra,267509.0,9175.0,276684.0
+2023-24,5,Agra,"Mariam Tomb,",39335.0,338.0,39673.0
+2023-24,6,Agra,Itimad-ud,152495.0,44390.0,196885.0
+2023-24,7,Agra,Ram Bagh,67489.0,1841.0,69330.0
+2023-24,8,Agra,Mehtab Bagh,111302.0,17079.0,128381.0
+2023-24,9,Agra,Mausoleum 709754 4142 578712 8218 -18.46 98.41 Total,8622758.0,672243.0,9295001.0
+2023-24,10,Lucknow,Site of Sahet,93790.0,43360.0,137150.0
+2023-24,11,Lucknow,Residency,152480.0,1789.0,154269.0
+2023-24,12,Lucknow,Piprahwa & 46824 18061 38375 19317 -18.04 6.95 Ganwaria Total,284087.0,50769.0,334856.0
+2023-24,13,Jhansi,Gupta & Varah,934.0,13.0,947.0
+2023-24,14,Jhansi,Kalinjar Fort,95957.0,162.0,96119.0
+2023-24,15,Jhansi,Rani Lakshmi Bai,15470.0,27.0,15497.0
+2023-24,16,Jhansi,Rani Jhansi Fort 470724 611 521136 625 10.71 2.29 Total,522183.0,494.0,522677.0
+2023-24,17,Sarnath,Lord Cornwallis,9148.0,90.0,9238.0
+2023-24,18,Sarnath,Old Fort (Shahi,167409.0,343.0,167752.0
+2023-24,19,Sarnath,Observatory of,61542.0,511.0,62053.0
+2023-24,20,Sarnath,Excavated Remains,755062.0,54743.0,809805.0
+2023-24,21,Sarnath,Tomb of Lal Khan,4804.0,32.0,4836.0
+2023-24,22,Sarnath,Ancient Buddhist 47495 5816 36423 5351 -23.31 -8.00 Site know as Chaukhan di Stupa Total,1051713.0,62108.0,1113821.0
+2023-24,23,Thrissur,"Bekal Fort,",384008.0,498.0,384506.0
+2023-24,24,Thrissur,,,,
+2023-24,25,Thrissur,Fort Palakkad,258812.0,252.0,259064.0
+2023-24,26,Thrissur,"Fort St. Angelo, 240382 818 242895 1074 1.05 31.30 Kannur Total",1194988.0,33540.0,1228528.0
+2023-24,27,Chennai,Group of,1507208.0,28033.0,1535241.0
+2023-24,28,Chennai,Gingee Fort,179289.0,1896.0,181185.0
+2023-24,29,Chennai,Tiger headed Rock,62765.0,1014.0,63779.0
+2023-24,30,Chennai,"Fort, St. George 24254 5474 24664 7313 1.69 33.60 Total",1749262.0,30943.0,1780205.0
+2023-24,31,Thiruchirapalli,"Fort on Rock,",36071.0,57.0,36128.0
+2023-24,32,Thiruchirapalli,Moovarkoil,1874.0,4.0,1878.0
+2023-24,33,Thiruchirapalli,Rock Cut Jain,56425.0,116.0,56541.0
+2023-24,34,Thiruchirapalli,Tirumalai Nayak's,856.0,0.0,856.0
+2023-24,35,Thiruchirapalli,Natural Caven with,19705.0,51.0,19756.0
+2023-24,36,Thiruchirapalli,Fort Museum,93833.0,713.0,94546.0
+2023-24,37,Thiruchirapalli,Fort Vattakottai 114090 242 99669 366 -12.64 51.24 Total,315602.0,1099.0,316701.0
+2023-24,38,Bhopal,Buddhist Caves,29056.0,6.0,29062.0
+2023-24,39,Bhopal,The Palace in the,36808.0,165.0,36973.0
+2023-24,40,Bhopal,Hoshang Shah’s,93038.0,705.0,93743.0
+2023-24,41,Bhopal,Group of,319046.0,1027.0,320073.0
+2023-24,42,Bhopal,Roopmati’s,282678.0,763.0,283441.0
+2023-24,43,Bhopal,Buddhist,266528.0,3457.0,269985.0
+2023-24,44,Bhopal,Gwalior Fort,274674.0,3973.0,278647.0
+2023-24,45,Bhopal,Buddhist Cave,31137.0,65.0,31202.0
+2023-24,46,Bhopal,Badal Mahal,8637.0,51.0,8688.0
+2023-24,47,Bhopal,Caves 1 to,0.0,20.0,20.0
+2023-24,48,Bhopal,Bir Singh Palace 43841 763 42443 943 -3.19 23.59 Datia Total,1444498.0,11184.0,1455682.0
+2023-24,49,Jabalpur,Ancient site and,17962.0,57.0,18019.0
+2023-24,50,Jabalpur,Western Group of,419259.0,15271.0,434530.0
+2023-24,51,Jabalpur,"Group of Temple, 50251 145 49323 152 -1.85 4.83 Paramesh var Shiv and Karan Temple, Amarkantak Total",481346.0,15422.0,496768.0
+2023-24,52,Dharwad,"Durga Temple,",195325.0,2072.0,197397.0
+2023-24,53,Dharwad,Jaina & Vaishnava,427138.0,3271.0,430409.0
+2023-24,54,Dharwad,Group of,306808.0,2359.0,309167.0
+2023-24,55,Dharwad,"Gol-Gumbaz,",831109.0,755.0,831864.0
+2023-24,56,Dharwad,"Ibrahim Rauza,",187111.0,644.0,187755.0
+2023-24,57,Dharwad,"Temples & 19913 118 20621 179 3.56 51.69 Sculpture shed, Lakkumdi Total",1962662.0,9205.0,1971867.0
+2023-24,58,Hampi,Group of,809741.0,15890.0,825631.0
+2023-24,59,Hampi,Bellary Fort 38270 40 37401 53 -2.27 32.50 Total,824143.0,15903.0,840046.0
+2023-24,60,Bangalore,Daryia Daulat,436759.0,8614.0,445373.0
+2023-24,61,Bangalore,Keshava Temple,143360.0,5681.0,149041.0
+2023-24,62,Bangalore,Palace of Tipu,248490.0,7179.0,255669.0
+2023-24,63,Bangalore,Fortress and 446569 2568 381095 3078 -14.66 19.86 Temple Chitradurga Fort Total,1236323.0,23283.0,1259606.0
+2023-24,64,Raiganj,Cooch Bihar,608776.0,98.0,608874.0
+2023-24,65,Raiganj,Hazarduari Palace 983025 1454 906992 1907 -7.73 31.16 Total,1519112.0,1246.0,1520358.0
+2023-24,66,Kolkata,Bishnupur Temples,185784.0,321.0,186105.0
+2023-24,67,Kolkata,Matcalfe-Hall 22639 210 32280 225 42.59 7.14 Total,203584.0,457.0,204041.0
+2023-24,68,Rajkot,"Asokan Rock Edict,",29110.0,177.0,29287.0
+2023-24,69,Rajkot,"Buddhisht Caves,",0.0,0.0,0.0
+2023-24,70,Rajkot,"Baba Pyara Caves, 2895 11 3323 24 14.78 118.18 Junagadh & Khaprakodia Caves Junagadh Total",31919.0,186.0,32105.0
+2023-24,71,Vadodara,Champaner,65547.0,806.0,66353.0
+2023-24,72,Vadodara,"Sun Temple,",379560.0,24166.0,403726.0
+2023-24,73,Vadodara,"Rani Ki- Vav, Patan",351767.0,2247.0,354014.0
+2023-24,74,Vadodara,"Rudabai Step 378847 8090 277021 7890 -26.88 -2.47 Well, Adalaj Total",1166835.0,32056.0,1198891.0
+2023-24,75,Bhubaneswar,"Sun Temple,",2405307.0,3608.0,2408915.0
+2023-24,76,Bhubaneswar,Ancient Remains,469058.0,1724.0,470782.0
+2023-24,77,Bhubaneswar,Rajarani Temple,36420.0,644.0,37064.0
+2023-24,78,Bhubaneswar,The Hill Containing,32742.0,293.0,33035.0
+2023-24,79,Bhubaneswar,"Ruins of Buddhist 41188 399 52329 454 27.05 13.78 Temples and Images, Lalitgiri Total",2979574.0,6538.0,2986112.0
+2023-24,80,Aurangabad,Ajanta Caves,401086.0,10437.0,411523.0
+2023-24,81,Aurangabad,Ellora Caves,1437560.0,12464.0,1450024.0
+2023-24,82,Aurangabad,Tomb of Rabia,1183263.0,5606.0,1188869.0
+2023-24,83,Aurangabad,Daulatabad Fort,516144.0,2565.0,518709.0
+2023-24,84,Aurangabad,"Pandulena Caves,",170146.0,795.0,170941.0
+2023-24,85,Aurangabad,Aurangabad Caves 132518 1495 126327 1609 -4.67 7.63 Total,3823699.0,32719.0,3856418.0
+2023-24,86,Mumbai,Elephanta Caves,464428.0,13368.0,477796.0
+2023-24,87,Mumbai,"Buddhist Caves,",327250.0,6063.0,333313.0
+2023-24,88,Mumbai,Shaniwarw ada,1079741.0,4899.0,1084640.0
+2023-24,89,Mumbai,Aga Khan Palace,187407.0,3121.0,190528.0
+2023-24,90,Mumbai,"Cave, Temple and",404079.0,391.0,404470.0
+2023-24,91,Mumbai,"Caves, Temples and",301392.0,2170.0,303562.0
+2023-24,92,Mumbai,"Cave, Temple &",89302.0,517.0,89819.0
+2023-24,93,Mumbai,Raigad Fort,297029.0,97.0,297126.0
+2023-24,94,Mumbai,"Kolaba Fort,",43176.0,128.0,43304.0
+2023-24,95,Mumbai,"Old Fort, Sholapur",35485.0,32.0,35517.0
+2023-24,96,Mumbai,"Janjira Fort, Murd",276453.0,199.0,276652.0
+2023-24,97,Mumbai,Kondiote Caves,43419.0,310.0,43729.0
+2023-24,98,Mumbai,Lohgad Fort 136790 207 138327 323 1.12 56.04 Total,3825006.0,31829.0,3856835.0
+2023-24,99,Nagpur,Gawilgarh Fort,22777.0,16.0,22793.0
+2023-24,100,Nagpur,"Ancient Buddhist 3901 128 3552 92 -8.95 -28.13 Remains, comprising monstery stupa rock sculptures inscriptions etc mansar Total",26462.0,49.0,26511.0
+2023-24,101,Chandigarh,Suraj Kund,12846.0,53.0,12899.0
+2023-24,102,Chandigarh,Sheikj Chillis Tomb 74729 346 81589 217 9.18 -37.28 Total,83178.0,339.0,83517.0
+2023-24,103,Delhi,Khan-I-Khana,4556.0,40.0,4596.0
+2023-24,104,Delhi,Sultan Garhi Tomb,2110.0,4.0,2114.0
+2023-24,105,Delhi,Tughlaqabad Fort,127556.0,619.0,128175.0
+2023-24,106,Delhi,Red Fort,2214658.0,49060.0,2263718.0
+2023-24,107,Delhi,Humayuns Tomb,1162360.0,100136.0,1262496.0
+2023-24,108,Delhi,Qutub Minar,1767548.0,115247.0,1882795.0
+2023-24,109,Delhi,Hauzkhas,62959.0,1027.0,63986.0
+2023-24,110,Delhi,Jantar Mantar,268778.0,4673.0,273451.0
+2023-24,111,Delhi,Safdarjung Tomb,142379.0,5967.0,148346.0
+2023-24,112,Delhi,Kotla Firoz Shah,119053.0,648.0,119701.0
+2023-24,113,Delhi,Purana Qila 261483 1727 192216 1600 -26.49 -7.35 Total,6470665.0,279866.0,6750531.0
+2023-24,114,Guwahati,Ahom Raja’s,133792.0,151.0,133943.0
+2023-24,115,Guwahati,Kareghar of Ahom,242553.0,554.0,243107.0
+2023-24,116,Guwahati,Ranghar Pavillion,156804.0,519.0,157323.0
+2023-24,117,Guwahati,Bishnudol Temple,7453.0,32.0,7485.0
+2023-24,118,Guwahati,"Group of Four 47987 86 76896 102 60.24 18.60 Maidams Charaideo, Sibsagar Total",634390.0,1282.0,635672.0
+2023-24,119,Goa,Upper Fort Aguada,1014969.0,8320.0,1023289.0
+2023-24,120,Hyderabad,Charminar,928808.0,5986.0,934794.0
+2023-24,121,Hyderabad,Golkonda Fort,1526718.0,11509.0,1538227.0
+2023-24,122,Hyderabad,Warangal Fort 108267 242 106447 280 -1.68 15.70 Total,2592761.0,17734.0,2610495.0
+2023-24,123,Jaipur,"Ancient Site,",184391.0,1450.0,185841.0
+2023-24,124,Jaipur,Baori at Abhaneri,81401.0,39248.0,120649.0
+2023-24,125,Jaipur,Deeg Bhawan 39755 245 37987 366 -4.45 49.39 Total,298416.0,41081.0,339497.0
+2023-24,126,Jodhpur,Chittaurgarh Fort,802807.0,7155.0,809962.0
+2023-24,127,Jodhpur,Kumbhalgarh Fort,389625.0,4759.0,394384.0
+2023-24,128,Jodhpur,Marble Pavillion 547782 150 370056 152 -32.44 1.33 and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund Total,1902013.0,12090.0,1914103.0
+2023-24,129,Leh,Ancient Palace Leh,60052.0,2610.0,62662.0
+2023-24,130,Patna,Remains of,110985.0,178.0,111163.0
+2023-24,131,Patna,Ancient site of,108428.0,9673.0,118101.0
+2023-24,132,Patna,"Excavated Site,",390047.0,37456.0,427503.0
+2023-24,133,Patna,Ancient Site of,75411.0,115.0,75526.0
+2023-24,134,Patna,Sher Shah’s Tomb 302528 154 311750 231 3.05 50.00 Total,946419.0,47481.0,993900.0
+2023-24,135,Raipur,Temple of Laxman,62971.0,19.0,62990.0
+2023-24,136,Shimla,Ruined fort Kangra,124883.0,1233.0,126116.0
+2023-24,137,Shimla,"Rock-cut Temples 52434 2603 41624 1341 -20.62 -48.48 and Sculptures, Masrur Total",176238.0,2273.0,178511.0
+2023-24,138,Srinagar,Palace complex at,5584.0,0.0,5584.0
+2023-24,139,Srinagar,Avantiswamin,44336.0,99.0,44435.0
+2023-24,140,Srinagar,"Group of Temples, 16807 12 13842 15 -17.64 25.00 Kiramchi, District Udhampur Total",58145.0,108.0,58253.0
+2023-24,141,Amaravati,Amaravati,5584.0,0.0,5584.0
+2023-24,142,Amaravati,Undavalli Caves,127594.0,362.0,127956.0
+2023-24,143,Amaravati,Nagarjuna Konda,64591.0,379.0,64970.0
+2023-24,144,Amaravati,Chandragiri,115676.0,80.0,115756.0
+2023-24,145,Amaravati,"Buddhist Remains, 16626 35 13754 47 -17.27 34.29 on hill top at Guntupalli W.G. District Total",335048.0,887.0,335935.0
+2024-25,1,Agra,Taj Mahal,6264225.0,645624.0,6909849.0
+2024-25,2,Agra,Agra Fort,1545550.0,224924.0,1770474.0
+2024-25,3,Agra,Fatehpur Sikri,443158.0,97441.0,540599.0
+2024-25,4,Agra,Akbar Tomb Sikandra,218139.0,16368.0,234507.0
+2024-25,5,Agra,"Mariam Tomb,",18159.0,203.0,18362.0
+2024-25,6,Agra,Itimad-ud,185282.0,90367.0,275649.0
+2024-25,7,Agra,Ram Bagh,45707.0,546.0,46253.0
+2024-25,8,Agra,Mehtab Bagh,129153.0,27516.0,156669.0
+2024-25,9,Agra,Mausoleum 709754 4142 578712 8218 -18.46 98.41 Total,9428085.0,1111207.0,10539292.0
+2024-25,10,Lucknow,Site of Sahet,105345.0,73312.0,178657.0
+2024-25,11,Lucknow,Residency,156542.0,4220.0,160762.0
+2024-25,12,Lucknow,Piprahwa & 46824 18061 38375 19317 -18.04 6.95 Ganwaria Total,300262.0,96849.0,397111.0
+2024-25,13,Jhansi,Gupta & Varah,2238.0,20.0,2258.0
+2024-25,14,Jhansi,Kalinjar Fort,128447.0,387.0,128834.0
+2024-25,15,Jhansi,Rani Lakshmi Bai,26359.0,43.0,26402.0
+2024-25,16,Jhansi,Rani Jhansi Fort 470724 611 521136 625 10.71 2.29 Total,678180.0,1075.0,679255.0
+2024-25,17,Sarnath,Lord Cornwallis,25710.0,113.0,25823.0
+2024-25,18,Sarnath,Old Fort (Shahi,150737.0,115.0,150852.0
+2024-25,19,Sarnath,Observatory of,85382.0,913.0,86295.0
+2024-25,20,Sarnath,Excavated Remains,744213.0,59086.0,803299.0
+2024-25,21,Sarnath,Tomb of Lal Khan,5907.0,50.0,5957.0
+2024-25,22,Sarnath,Ancient Buddhist 47495 5816 36423 5351 -23.31 -8.00 Site know as Chaukhan di Stupa Total,1048372.0,65628.0,1114000.0
+2024-25,23,Thrissur,"Bekal Fort,",374766.0,516.0,375282.0
+2024-25,24,Thrissur,,,,
+2024-25,25,Thrissur,Fort Palakkad,265090.0,434.0,265524.0
+2024-25,26,Thrissur,"Fort St. Angelo, 240382 818 242895 1074 1.05 31.30 Kannur Total",882751.0,2024.0,884775.0
+2024-25,27,Chennai,Group of,967048.0,41416.0,1008464.0
+2024-25,28,Chennai,Gingee Fort,149329.0,1411.0,150740.0
+2024-25,29,Chennai,Tiger headed Rock,42684.0,1324.0,44008.0
+2024-25,30,Chennai,"Fort, St. George 24254 5474 24664 7313 1.69 33.60 Total",1183725.0,51464.0,1235189.0
+2024-25,31,Thiruchirapalli,"Fort on Rock,",36711.0,241.0,36952.0
+2024-25,32,Thiruchirapalli,Moovarkoil,2517.0,14.0,2531.0
+2024-25,33,Thiruchirapalli,Rock Cut Jain,44538.0,173.0,44711.0
+2024-25,34,Thiruchirapalli,Tirumalai Nayak's,927.0,0.0,927.0
+2024-25,35,Thiruchirapalli,Natural Caven with,16744.0,43.0,16787.0
+2024-25,36,Thiruchirapalli,Fort Museum,90100.0,990.0,91090.0
+2024-25,37,Thiruchirapalli,Fort Vattakottai 114090 242 99669 366 -12.64 51.24 Total,291206.0,1827.0,293033.0
+2024-25,38,Bhopal,Buddhist Caves,25091.0,59.0,25150.0
+2024-25,39,Bhopal,The Palace in the,33258.0,410.0,33668.0
+2024-25,40,Bhopal,Hoshang Shah’s,80429.0,1274.0,81703.0
+2024-25,41,Bhopal,Group of,372116.0,1740.0,373856.0
+2024-25,42,Bhopal,Roopmati’s,276403.0,1037.0,277440.0
+2024-25,43,Bhopal,Buddhist,296042.0,19490.0,315532.0
+2024-25,44,Bhopal,Gwalior Fort,318649.0,9660.0,328309.0
+2024-25,45,Bhopal,Buddhist Cave,34804.0,134.0,34938.0
+2024-25,46,Bhopal,Badal Mahal,14607.0,125.0,14732.0
+2024-25,47,Bhopal,Caves 1 to,726.0,68753.0,69479.0
+2024-25,48,Bhopal,Bir Singh Palace 43841 763 42443 943 -3.19 23.59 Datia Total,1562595.0,35750.0,1598345.0
+2024-25,49,Jabalpur,Ancient site and,21336.0,1.0,21337.0
+2024-25,50,Jabalpur,Western Group of,523075.0,38478.0,561553.0
+2024-25,51,Jabalpur,"Group of Temple, 50251 145 49323 152 -1.85 4.83 Paramesh var Shiv and Karan Temple, Amarkantak Total",593734.0,38631.0,632365.0
+2024-25,52,Dharwad,"Durga Temple,",210076.0,3825.0,213901.0
+2024-25,53,Dharwad,Jaina & Vaishnava,438834.0,5708.0,444542.0
+2024-25,54,Dharwad,Group of,320326.0,4289.0,324615.0
+2024-25,55,Dharwad,"Gol-Gumbaz,",857297.0,1362.0,858659.0
+2024-25,56,Dharwad,"Ibrahim Rauza,",188375.0,1081.0,189456.0
+2024-25,57,Dharwad,"Temples & 19913 118 20621 179 3.56 51.69 Sculpture shed, Lakkumdi Total",2035529.0,16444.0,2051973.0
+2024-25,58,Hampi,Group of,986249.0,22472.0,1008721.0
+2024-25,59,Hampi,Bellary Fort 38270 40 37401 53 -2.27 32.50 Total,1023650.0,22525.0,1046175.0
+2024-25,60,Bangalore,Daryia Daulat,500077.0,15159.0,515236.0
+2024-25,61,Bangalore,Keshava Temple,199083.0,10744.0,209827.0
+2024-25,62,Bangalore,Palace of Tipu,216281.0,13692.0,229973.0
+2024-25,63,Bangalore,Fortress and 446569 2568 381095 3078 -14.66 19.86 Temple Chitradurga Fort Total,1296536.0,42673.0,1339209.0
+2024-25,64,Raiganj,Cooch Bihar,682443.0,261.0,682704.0
+2024-25,65,Raiganj,Hazarduari Palace 983025 1454 906992 1907 -7.73 31.16 Total,1589435.0,2168.0,1591603.0
+2024-25,66,Kolkata,Bishnupur Temples,183156.0,507.0,183663.0
+2024-25,67,Kolkata,Matcalfe-Hall 22639 210 32280 225 42.59 7.14 Total,215436.0,732.0,216168.0
+2024-25,68,Rajkot,"Asokan Rock Edict,",27611.0,297.0,27908.0
+2024-25,69,Rajkot,"Buddhisht Caves,",42610.0,242.0,42852.0
+2024-25,70,Rajkot,"Baba Pyara Caves, 2895 11 3323 24 14.78 118.18 Junagadh & Khaprakodia Caves Junagadh Total",73544.0,563.0,74107.0
+2024-25,71,Vadodara,Champaner,52017.0,1924.0,53941.0
+2024-25,72,Vadodara,"Sun Temple,",341424.0,4248.0,345672.0
+2024-25,73,Vadodara,"Rani Ki- Vav, Patan",367768.0,3977.0,371745.0
+2024-25,74,Vadodara,"Rudabai Step 378847 8090 277021 7890 -26.88 -2.47 Well, Adalaj Total",1038230.0,18039.0,1056269.0
+2024-25,75,Bhubaneswar,"Sun Temple,",3571289.0,5059.0,3576348.0
+2024-25,76,Bhubaneswar,Ancient Remains,1240354.0,2241.0,1242595.0
+2024-25,77,Bhubaneswar,Rajarani Temple,112959.0,1072.0,114031.0
+2024-25,78,Bhubaneswar,The Hill Containing,147824.0,676.0,148500.0
+2024-25,79,Bhubaneswar,"Ruins of Buddhist 41188 399 52329 454 27.05 13.78 Temples and Images, Lalitgiri Total",5124755.0,9502.0,5134257.0
+2024-25,80,Aurangabad,Ajanta Caves,442065.0,20855.0,462920.0
+2024-25,81,Aurangabad,Ellora Caves,1739873.0,20710.0,1760583.0
+2024-25,82,Aurangabad,Tomb of Rabia,2004535.0,10612.0,2015147.0
+2024-25,83,Aurangabad,Daulatabad Fort,545635.0,4032.0,549667.0
+2024-25,84,Aurangabad,"Pandulena Caves,",277313.0,1222.0,278535.0
+2024-25,85,Aurangabad,Aurangabad Caves 132518 1495 126327 1609 -4.67 7.63 Total,5135748.0,59040.0,5194788.0
+2024-25,86,Mumbai,Elephanta Caves,476385.0,26119.0,502504.0
+2024-25,87,Mumbai,"Buddhist Caves,",385776.0,7685.0,393461.0
+2024-25,88,Mumbai,Shaniwarw ada,1127815.0,6402.0,1134217.0
+2024-25,89,Mumbai,Aga Khan Palace,214392.0,3837.0,218229.0
+2024-25,90,Mumbai,"Cave, Temple and",373182.0,401.0,373583.0
+2024-25,91,Mumbai,"Caves, Temples and",187184.0,1817.0,189001.0
+2024-25,92,Mumbai,"Cave, Temple &",55693.0,144.0,55837.0
+2024-25,93,Mumbai,Raigad Fort,340940.0,146.0,341086.0
+2024-25,94,Mumbai,"Kolaba Fort,",94800.0,103.0,94903.0
+2024-25,95,Mumbai,"Old Fort, Sholapur",38296.0,27.0,38323.0
+2024-25,96,Mumbai,"Janjira Fort, Murd",246804.0,695.0,247499.0
+2024-25,97,Mumbai,Kondiote Caves,25165.0,595.0,25760.0
+2024-25,98,Mumbai,Lohgad Fort 136790 207 138327 323 1.12 56.04 Total,3704759.0,48294.0,3753053.0
+2024-25,99,Nagpur,Gawilgarh Fort,21609.0,6.0,21615.0
+2024-25,100,Nagpur,"Ancient Buddhist 3901 128 3552 92 -8.95 -28.13 Remains, comprising monstery stupa rock sculptures inscriptions etc mansar Total",25161.0,98.0,25259.0
+2024-25,101,Chandigarh,Suraj Kund,10732.0,29.0,10761.0
+2024-25,102,Chandigarh,Sheikj Chillis Tomb 74729 346 81589 217 9.18 -37.28 Total,92321.0,246.0,92567.0
+2024-25,103,Delhi,Khan-I-Khana,4511.0,45.0,4556.0
+2024-25,104,Delhi,Sultan Garhi Tomb,674.0,9.0,683.0
+2024-25,105,Delhi,Tughlaqabad Fort,28176.0,243.0,28419.0
+2024-25,106,Delhi,Red Fort,2884399.0,79311.0,2963710.0
+2024-25,107,Delhi,Humayuns Tomb,1005606.0,158043.0,1163649.0
+2024-25,108,Delhi,Qutub Minar,3204760.0,220044.0,3424804.0
+2024-25,109,Delhi,Hauzkhas,110405.0,1663.0,112068.0
+2024-25,110,Delhi,Jantar Mantar,249987.0,4697.0,254684.0
+2024-25,111,Delhi,Safdarjung Tomb,143474.0,8413.0,151887.0
+2024-25,112,Delhi,Kotla Firoz Shah,105840.0,893.0,106733.0
+2024-25,113,Delhi,Purana Qila 261483 1727 192216 1600 -26.49 -7.35 Total,7930048.0,474961.0,8405009.0
+2024-25,114,Guwahati,Ahom Raja’s,123656.0,175.0,123831.0
+2024-25,115,Guwahati,Kareghar of Ahom,197111.0,804.0,197915.0
+2024-25,116,Guwahati,Ranghar Pavillion,172275.0,796.0,173071.0
+2024-25,117,Guwahati,Bishnudol Temple,5777.0,24.0,5801.0
+2024-25,118,Guwahati,"Group of Four 47987 86 76896 102 60.24 18.60 Maidams Charaideo, Sibsagar Total",575715.0,1901.0,577616.0
+2024-25,119,Goa,Upper Fort Aguada,1358790.0,13025.0,1371815.0
+2024-25,120,Hyderabad,Charminar,1343503.0,9562.0,1353065.0
+2024-25,121,Hyderabad,Golkonda Fort,1563524.0,15958.0,1579482.0
+2024-25,122,Hyderabad,Warangal Fort 108267 242 106447 280 -1.68 15.70 Total,3013474.0,25800.0,3039274.0
+2024-25,123,Jaipur,"Ancient Site,",234945.0,2085.0,237030.0
+2024-25,124,Jaipur,Baori at Abhaneri,101710.0,116378.0,218088.0
+2024-25,125,Jaipur,Deeg Bhawan 39755 245 37987 366 -4.45 49.39 Total,374642.0,118829.0,493471.0
+2024-25,126,Jodhpur,Chittaurgarh Fort,1057243.0,12930.0,1070173.0
+2024-25,127,Jodhpur,Kumbhalgarh Fort,378780.0,9342.0,388122.0
+2024-25,128,Jodhpur,Marble Pavillion 547782 150 370056 152 -32.44 1.33 and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund Total,1806079.0,22424.0,1828503.0
+2024-25,129,Leh,Ancient Palace Leh,86277.0,7660.0,93937.0
+2024-25,130,Patna,Remains of,129868.0,1766.0,131634.0
+2024-25,131,Patna,Ancient site of,70289.0,28795.0,99084.0
+2024-25,132,Patna,"Excavated Site,",501000.0,88151.0,589151.0
+2024-25,133,Patna,Ancient Site of,97891.0,461.0,98352.0
+2024-25,134,Patna,Sher Shah’s Tomb 302528 154 311750 231 3.05 50.00 Total,1110798.0,119404.0,1230202.0
+2024-25,135,Raipur,Temple of Laxman,81085.0,34.0,81119.0
+2024-25,136,Shimla,Ruined fort Kangra,127818.0,3067.0,130885.0
+2024-25,137,Shimla,"Rock-cut Temples 52434 2603 41624 1341 -20.62 -48.48 and Sculptures, Masrur Total",169442.0,4408.0,173850.0
+2024-25,138,Srinagar,Palace complex at,5963.0,0.0,5963.0
+2024-25,139,Srinagar,Avantiswamin,41685.0,276.0,41961.0
+2024-25,140,Srinagar,"Group of Temples, 16807 12 13842 15 -17.64 25.00 Kiramchi, District Udhampur Total",61490.0,291.0,61781.0
+2024-25,141,Amaravati,Amaravati,7819.0,271.0,8090.0
+2024-25,142,Amaravati,Undavalli Caves,146263.0,374.0,146637.0
+2024-25,143,Amaravati,Nagarjuna Konda,59130.0,696.0,59826.0
+2024-25,144,Amaravati,Chandragiri,112435.0,96.0,112531.0
+2024-25,145,Amaravati,"Buddhist Remains, 16626 35 13754 47 -17.27 34.29 on hill top at Guntupalli W.G. District Total",339401.0,1484.0,340885.0
